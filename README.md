@@ -20,6 +20,10 @@ I am a Data Science enthusiast with a **Master’s degree in Information Technol
 
 1. Performed Sentiment Analysis on IMDB Movie Reviews using Feedforward Neural Networks, achieving F1-Score of 0.833 on Test set.
 
+### [Online Gambler Profile Segmentation by performing Cluster Analysis using SAS Viya](https://github.com/sarthakjn1/OnlineGambler-Clustering)
+1. Executed K-Means Cluster Analysis using SAS Viya to derive gambler profiles based on the bank account transactions 
+of online gamblers in the United States.
+
 ### [Sequence Tagging on Penn Treebank Dataset with LSTM](https://github.com/sarthakjn1/SequenceTagging-Treebank)
 
 1. Developed and implemented an LSTM model for sequence tagging on the Treebank dataset, achieving 92.3% accuracy on the test set
