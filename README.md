@@ -1,5 +1,5 @@
 # About me
-I am a Data Science enthusiast with a Master’s degree in Information Technology (Major in Analytics) from Singapore Management University. I gained hands-on experience as a Data Analyst intern at PSA International Pte Ltd and have nearly three years of professional experience as an Associate Software Engineer at Siemens Industry Software (India) Pvt Ltd.
+I am a Data Science enthusiast with a **Master’s degree in Information Technology (Major in Analytics)** from **Singapore Management University**. I gained hands-on experience as a **Data Analyst Intern** at **PSA International Pte Ltd** and have nearly three years of professional experience as an **Associate Software Engineer** at **Siemens Industry Software (India) Pvt Ltd**.
 
 ## My Projects
 ### [Sentiment-Driven Topic Analysis in ISIS Tweets](https://github.com/sarthakjn1/SentimentAnalysis_TopicModelling_ISIStweets)
@@ -8,6 +8,13 @@ I am a Data Science enthusiast with a Master’s degree in Information Technolog
 2. Executed Topic Modelling using Supervised and Semi-Supervised LDA on sentiment labeled tweets to identify key topics within them
 3. Prompted GPT 4.0 to perform topic modeling on sentiment-labeled tweets.
 4. Analysed results to aid content moderation and counter-terrorism initiatives.
+
+### [Increasing Estimated Employee Value for IBM Employees](https://github.com/sarthakjn1/IBM-Employee-Estimated-Value)
+
+1. Designed a metric Estimated Employee Value to quanitfy the impact, performance and work experience of IBM employees.
+2. Designed retention strategies for IBM Employees by using Random Forest Classifier, incorporating Estimated Employee Value as a key metric.
+3. Developed strategies for awarding transportation allowance incentives for high performers.
+4. Estimated optimum promotion timeline using Survival Analysis and Satisfaction Score as a metric to improve job satisfaction.
 
 ### [Sentiment Analysis on IMDB Movie Reviews](https://github.com/sarthakjn1/SentimentAnalysis-IMDB)
 
