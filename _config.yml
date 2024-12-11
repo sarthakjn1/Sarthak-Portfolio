@@ -1,6 +1,7 @@
 title: Sarthak Nagapurkar
 logo: assets/image/Passport Photo.jpg
 theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
 sidebar:
   - about-me
   - label: About Me
