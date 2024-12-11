@@ -1,12 +1,5 @@
 title: Sarthak Nagapurkar
 logo: assets/image/Passport Photo.jpg
 theme: jekyll-theme-minimal
-sidebar:
-  enabled: true
-  - about-me
-  - label: About Me
-  - my-projects
-  - label: My Projects
-  - tableau-profile
-  - label: My Tableau Portfolio
+
   
