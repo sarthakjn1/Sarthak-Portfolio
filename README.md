@@ -28,5 +28,9 @@ of online gamblers in the United States.
 
 1. Developed and implemented an LSTM model for sequence tagging on the Treebank dataset, achieving 92.3% accuracy on the test set
 
+## [My Tableau Portfolio](https://public.tableau.com/app/profile/sarthak.nagapurkar/vizzes)
+
+Dashboards and Interactive Visualizations developed using Tableau
+
 
 
