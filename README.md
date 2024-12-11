@@ -1,5 +1,13 @@
 # About me
-I am a Data Science enthusiast with a **Master’s degree in Information Technology (Major in Analytics)** from **Singapore Management University**. I gained hands-on experience as a **Data Analyst Intern** at **PSA International Pte Ltd** and have nearly three years of professional experience as an **Associate Software Engineer** at **Siemens Industry Software (India) Pvt Ltd**.
+## Education
+• Master’s degree in Information Technology (Major in Analytics) from Singapore Management University. 
+
+• Bachelors of Technology in Mechanical Engineering from College of Engineering Pune.
+
+## Work Experience
+• Completed a 6-month internship as a Data Analyst at PSA International Pte Ltd, contributing to data-driven decision-making processes.
+
+• Gained nearly three years of professional experience as an Associate Software Engineer at Siemens Industry Software (India) Pvt Ltd, specializing in software product development and engineering solutions.
 
 ## My Projects
 ### [Sentiment-Driven Topic Analysis in ISIS Tweets](https://github.com/sarthakjn1/SentimentAnalysis_TopicModelling_ISIStweets)
